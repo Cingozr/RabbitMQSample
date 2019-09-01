@@ -1,9 +1,6 @@
 ﻿using RabbitMQ.Client;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace ExampleApp
+namespace RabbitMQ.Common
 {
     public class RabbitMQService
     {
